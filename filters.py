@@ -9,5 +9,10 @@ def make_signal(w):
 def filter_signal(sig):
     pass
 
+
 def my_feature():
+    pass
+
+
+def feature2():
     pass
