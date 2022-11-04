@@ -15,4 +15,4 @@ def my_feature():
 
 
 def feature2():
-    pass
+    ...
