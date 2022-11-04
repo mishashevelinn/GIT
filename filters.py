@@ -3,7 +3,7 @@ import scipy.signal as sg
 
 
 def make_signal(w):
-    pass
+    print("SINUS")
 
 
 def filter_signal(sig):
